@@ -1,4 +1,5 @@
 #lets creat anew demo
-new line 
+new line
 
-1-open main.html
+## local development
+open in browser
